@@ -16,7 +16,7 @@
 
 ## Funcionalidades
 <ol>
-  <li>Header: dá acesso a diferentes seções do site.</code></li>
+  <li>Header: dá acesso a diferentes seções do site.</li>
   <li>Lista de produtos: exibe produtos do supermercado, cada um com foto, descrição e preço</li>
   <li>Rodapé: exibe informações de autoria, contato e links de navegação</li>
 </ol>
