@@ -6,57 +6,57 @@
     <title>Supermercado Julio</title>
 </head>
 <body>
-<header>
-  <div class="header-container">
-    <div class="logo">
-      <img src="logo.png" alt="Logo do Supermercado">
-    </div>
-    <nav class="navigation">
-      <ul>
-        <li><a href="#">Categorias</a></li>
-        <li><a href="#">Ofertas</a></li>
-        <li><a href="#">Sobre Nós</a></li>
-      </ul>
-    </nav>
-    <div class="search-bar">
-      <input type="search" placeholder="Buscar produtos...">
-      <button>Buscar</button>
-    </div>
-    <div class="header-icons">
-      <a href="#"><img src="user-icon.png" alt="Minha Conta"></a>
-      <a href="#"><img src="cart-icon.png" alt="Carrinho"></a>
-    </div>
-  </div>
-</header>
+    <header>
+      <div class="header-container">
+        <div class="logo">
+          <img src="logo.png" alt="Logo do Supermercado">
+        </div>
+        <nav class="navigation">
+          <ul>
+            <li><a href="#">Categorias</a></li>
+            <li><a href="#">Ofertas</a></li>
+            <li><a href="#">Sobre Nós</a></li>
+          </ul>
+        </nav>
+        <div class="search-bar">
+          <input type="search" placeholder="Buscar produtos...">
+          <button>Buscar</button>
+        </div>
+        <div class="header-icons">
+          <a href="#"><img src="user-icon.png" alt="Minha Conta"></a>
+          <a href="#"><img src="cart-icon.png" alt="Carrinho"></a>
+        </div>
+      </div>
+    </header>
 
 
-<footer>
-  <div class="container">
-    <div class="footer-section">
-      <h4>Informações de Contato</h4>
-      <p>Endereço: Rua Virtual, 95</p>
-      <p>Telefone: (11) 2207-1307</p>
-      <p>Email: juliovech@gmail.com</p>
-    </div>
+    <footer>
+      <div class="container">
+        <div class="footer-section">
+          <h4>Informações de Contato</h4>
+          <p>Endereço: Rua Virtual, 95</p>
+          <p>Telefone: (11) 2207-1307</p>
+          <p>Email: juliovech@gmail.com</p>
+        </div>
 
-    <div class="footer-section">
-      <h4>Redes Sociais</h4>
-      <a href="#">Facebook</a> | <a href="#">Threads</a> | <a href="#">Bluesky</a>
-    </div>
+        <div class="footer-section">
+          <h4>Redes Sociais</h4>
+          <a href="#">Facebook</a> | <a href="#">Threads</a> | <a href="#">Bluesky</a>
+        </div>
 
-    <div class="footer-section">
-      <h4>Links Úteis</h4>
-      <ul>
-        <li><a href="#">Política de Privacidade</a></li>
-        <li><a href="#">Termos de Serviço</a></li>
-        <li><a href="#">Sobre Nós</a></li>
-      </ul>
-    </div>
-  </div>
+        <div class="footer-section">
+          <h4>Links Úteis</h4>
+          <ul>
+            <li><a href="#">Política de Privacidade</a></li>
+            <li><a href="#">Termos de Serviço</a></li>
+            <li><a href="#">Sobre Nós</a></li>
+          </ul>
+        </div>
+      </div>
 
-  <div class="footer-bottom">
-    <p>&copy; 2025 Supermercado Julio. Todos os direitos reservados.</p>
-  </div>
-</footer>
+      <div class="footer-bottom">
+        <p>&copy; 2025 Supermercado Julio. Todos os direitos reservados.</p>
+      </div>
+    </footer>
 </body>
 </html>
