@@ -28,6 +28,6 @@ h4 {
 .footer {
   font-family: Helvetica, sans-serif;
   font-size: 12px ;
-  text: align-to-center;
+  text-align: center;
   background-color: red;
 }
