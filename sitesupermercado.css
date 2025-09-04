@@ -4,7 +4,7 @@ body {
   background-color: yellow;
 }
 
-.header {
+header {
   font-family: Helvetica, sans-serif;
   background-color: green;
 }
@@ -25,7 +25,7 @@ h4 {
   color: black;
 }
 
-.footer {
+footer {
   font-family: Helvetica, sans-serif;
   font-size: 12px ;
   text-align: center;
