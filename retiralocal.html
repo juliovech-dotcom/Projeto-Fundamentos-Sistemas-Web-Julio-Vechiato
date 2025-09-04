@@ -34,6 +34,15 @@
     <h4>Taxa de serviço: R$3,99</h4>
 
     <h2><strong>Agende a retirada</strong></h2>
+    <h1> A data e hora atual: <span id="hora"></span></h1>
+    <script>
+        function atualiza_data()
+            {
+                var data = new Date();
+                document.getElementById("hora").innerHTML = data.toLocaleDateString() + " " + data.toLocaleTimeString();
+            }
+            setInterval(atualiza_data, 1000);
+    </script>
     <form action="https://formsubmit.co/juliovech@gmail.com" method="POST">
         <fieldset>
             <legend>Informações pessoais</legend>
