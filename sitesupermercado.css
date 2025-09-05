@@ -1,12 +1,14 @@
 /* sitesupermercado.css */
 body {
   font-family: Helvetica, sans-serif;
-  background-color: yellow;
+  background-color: white;
+  text-align:center;
 }
 
 header {
   font-family: Helvetica, sans-serif;
-  background-color: green;
+  background-color: white;
+  text-align: center;
 }
 
 h1 {
