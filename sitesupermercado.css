@@ -2,8 +2,8 @@
 body {
   font-family: Helvetica, sans-serif;
   font-size: 16px;
-  background-color: olive;
-  text-align: justify;
+  background-color: white;
+  text-align: center;
 }
 
 header {
@@ -33,5 +33,5 @@ footer {
   font-family: Helvetica, sans-serif;
   font-size: 12px ;
   text-align: center;
-  background-color: teal ;
+  background-color: olive ;
 }
