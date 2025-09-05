@@ -1,16 +1,16 @@
 /* sitesupermercado.css */
 body {
   font-family: Helvetica, sans-serif;
-  font-size: 26px;
+  font-size: 16px;
   background-color: olive;
-  text-align:center;
+  text-align: justify;
 }
 
 header {
   font-family: Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 26px;
   background-color: white;
-  text-align: justify;
+  text-align: center;
 }
 
 h1 {
